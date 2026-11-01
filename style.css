@@ -31,3 +31,5 @@ nav { display: flex; gap: 20px; flex-wrap: wrap; padding-bottom: 16px; margin-bo
 nav a { text-decoration: none; }
 hr { border: 0; border-top: 1px solid var(--line); margin: 40px 0 24px; }
 code { font-size: 14px; }
+.yt { display: flex; align-items: center; gap: 10px; margin: 16px 0 24px; font-weight: 600; }
+.yt svg { flex: none; }
